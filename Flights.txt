@@ -1,0 +1,11 @@
+OPorto;Lisbon;66;111;60;06/07/2017
+Lisbon;Paris;165;234;150;07/07/2017
+Lisbon;London;132;501;160;08/07/2017
+OPorto;NewYork;1136;405;777;09/07/2017
+Paris;London;94;70;142;10/07/2017
+Paris;Berlin;33;110;632;11/07/2017
+Berlin;Barcelona;120;120;499;12/07/2017
+Lisbon;Chicago;857;780;901;13/07/2017
+Chicago;Barcelona;875;740;777;14/07/2017
+Barcelona;OPorto;37;110;104;15/07/2017
+OPorto;Milan;99;150;315;16/07/2017
